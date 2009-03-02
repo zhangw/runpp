@@ -1,0 +1,11 @@
+app_id: runpp
+version_id: 1.1
+runtime_id: python
+api_version: 1
+
+handlers:
+- url: /upload
+  script: upload.py
+  
+- url: .*
+  handler: main.py
