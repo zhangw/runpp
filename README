@@ -1,0 +1,5 @@
+The goal of Run Plus Plus (runpp) is to replace as much of the Nike + iPod website as possible. My primary reason for starting this stemmed from the stress I experienced trying to write a Facebook app a while back that would automatically update my profile with run data. Nike now offers this capability from their website, but your data is still "stuck" within their control. Think about that - they are reaping the benefits of your literal sweat! Run Plus Plus aspires to create an open environment for your run data.
+
+Currently the only running instance of runpp is at http://runpp.appspot.com - and it is pretty barebones. Please feel free to lend a hand to the project and even setup your own version of runpp.
+
+Run Plus Plus runs (har har) on Google App Engine and is written to allow multiple users from a single instance (ie: unless you don't want me having access to your runs or you want to introduce your own features without committing them [greedy] then you don't really need to run your own copy, you can just use runpp.appspot.com. Please, please, please - do think about contributing any code back to the repository!
